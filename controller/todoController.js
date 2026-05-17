@@ -1,4 +1,4 @@
-const TodoModel = require("../model/todomodel");
+const TodoModel = require("../model/todomodel.js");
 
 //crud
 const getAllTodos = async (req, res) => {
